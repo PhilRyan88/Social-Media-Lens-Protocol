@@ -35,7 +35,6 @@ body {
   padding: 1.2rem;
   background-color: rgba(var(--callout-rgb), 0.7);
   border: 1px solid rgba(var(--callout-border-rgb), 0.4);
-  border-radius: 10px;
 }
 
 /* Refined hover effect for cards */
