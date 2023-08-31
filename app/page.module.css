@@ -44,8 +44,4 @@ body {
     border: 1px solid rgba(var(--card-border-rgb), 0.15);
     transform: translateY(-5px);
   }
-
-  .card:hover span {
-    transform: translateX(3px);
-  }
 }
