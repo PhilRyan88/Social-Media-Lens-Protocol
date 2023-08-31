@@ -14,13 +14,10 @@
 
 body {
   background-color: var(--background-color);
-  font-family: "Georgia", serif;
+
   color: var(--text-color);
 }
 
-/* ... (rest of your existing CSS) ... */
-
-/* Refined card styles */
 .card {
   padding: 1.5rem 1.8rem;
   border-radius: 8px;
