@@ -2,10 +2,8 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
-/* Elegant color palette */
 :root {
   --background-color: #0c0202;
   --text-color: #333;
