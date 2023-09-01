@@ -63,9 +63,7 @@ export default function Home() {
                 {profile.handle}
               </p>
             </Link>
-            <p className="text-pink-600 text-sm font-medium text-center">
-              {profile.stats.totalFollowers} followers
-            </p>
+            <p className="text-pink-600 text-sm font-medium text-center"></p>
           </div>
         ))}
       </div>
