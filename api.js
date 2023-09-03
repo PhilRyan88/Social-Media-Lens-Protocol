@@ -14,7 +14,10 @@ export const getProfiles = `
         name
         bio
         attributes {
-       
+          displayType
+          traitType
+          key
+          value
         }
         metadata
         isDefault
