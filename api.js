@@ -13,9 +13,7 @@ export const getProfiles = `
         id
         name
         bio
-        attributes {
-          displayType
-          traitType
+      
           key
           value
         }
